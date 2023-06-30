@@ -1,7 +1,7 @@
 # User Authentication using AWS-Cognito
 
 User authentication is a critical aspect of web application development. AWS Cognito provides a secure and scalable solution for managing user signups, logins, and authentication flows. In this blog post, we will explore how to integrate AWS Cognito into a React.js application to enable user registration and login functionality. We will cover the steps involved in setting up an AWS Cognito user pool, implementing the signup and login forms, and performing authentication using AWS Cognito.
-Medium article:
+Medium article: [link](https://medium.com/@interesting-fella/aws-user-signup-login-using-aws-congnito-6d8a6f709f43)
 
 ## Prerequisites:
 
