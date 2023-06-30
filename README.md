@@ -2,4 +2,4 @@
 
 ## Topics
 
-1.  [AWS-Cognito](https://github.com/n-bhasin/aws-workshop-labs)
+1.  [AWS-Cognito](https://github.com/n-bhasin/aws-workshop-labs/tree/main/aws-cognito-lab)
